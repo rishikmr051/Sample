@@ -6,3 +6,6 @@
 
  // to delete last committed files
   git reset --hard HEAD^ 
+ 
+  // to undo 1 added file
+  git reset --recurse "New Text Document.txt"
