@@ -1,2 +1,4 @@
  git rm --cached FileToDiscard.tst
  git cherry-pick <commit id>
+ ls -al
+
